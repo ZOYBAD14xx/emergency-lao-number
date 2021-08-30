@@ -1,8 +1,8 @@
 # emergency-lao-number
 
-#Installation
+# Installation
 
-## npm i emergency-lao-number
+### npm i emergency-lao-number
 
 ```
 const number = require("emergency-lao-number");
