@@ -1,16 +1,28 @@
 {
-  "name": "test",
-  "version": "1.0.0",
-  "description": "",
+  "name": "emergency-lao-numbers",
+  "version": "1.0.3",
+  "description": "OpenSource",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "npm",
+    "demo",
+    "KPS_npm"
+  ],
+  "author": "monaliza14xx",
   "license": "ISC",
   "dependencies": {
-    "clist-node": "^3.3.0",
-    "emergencylaonumber": "^1.0.0"
-  }
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZOYBAD14xx/emergency-lao-number.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZOYBAD14xx/emergency-lao-number/issues"
+  },
+  "homepage": "https://github.com/ZOYBAD14xx/emergency-lao-number#readme"
 }
