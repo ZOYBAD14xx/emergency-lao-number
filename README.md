@@ -5,7 +5,7 @@
 ### npm i emergency-lao-numbers
 
 ```
-const number = require("emergency-lao-number");
+const number = require("emergency-lao-numbers");
   number()
   .then((res) => {
     console.log(res)
